@@ -1,0 +1,11 @@
+name: SatingSpleefers
+main: me.Kruithne.SatingSpleefers.SatingSpleefers
+version: 1.0
+author: Kruithne
+description: Runsafes personal spleef stuff
+depend: [WorldEdit]
+commands:
+  spleef:
+    description: SatingSpleefers commands
+    usage: /spleef [command] [parameter]
+    aliases: [ss,spleef,satingspleefers]
